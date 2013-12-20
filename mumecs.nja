@@ -1,0 +1,16 @@
+{
+  "venv": "", 
+  "name": "mumecs", 
+  "license": "New BSD License", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".css", 
+    ".json", 
+    ".js"
+  ], 
+  "project-type": "Django App", 
+  "description": ""
+}
