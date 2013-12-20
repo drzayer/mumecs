@@ -7,3 +7,4 @@ Requeriments:
 · Django 1.6
 · MongoDB
 · MongoEngine
+· django-extensions
